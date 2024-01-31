@@ -1,0 +1,178 @@
+@media(max-width:575px){
+    .main ul li a{
+        padding: 20px 0 !important;
+        color: #0B0B0B !important;
+        font-family:'ABeeZee', sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        display: flex;
+        justify-content: center;
+        background-color: #e0e0e0;
+        border-radius: 30px;
+        -webkit-border-radius: 30px;
+        -moz-border-radius: 30px;
+        -ms-border-radius: 30px;
+        -o-border-radius: 30px;
+    
+}
+.main button{
+    border: 2px solid #FD6E0A !important;
+ }
+ .navbar-toggler:focus{
+        outline: none;
+        text-decoration: none;
+        box-shadow: 0 0 0 transparent !important
+       }
+.main .navbar-toggler i{
+    color: #FD6E0A !important;
+    font-size: 25px;
+}
+.hero_btn a{
+   display: flex;
+   justify-content: center;
+}
+#banner.ban_img{
+    position: relative;
+    top: 596px;
+    left: 94px;
+    transform: translate(-50%);
+    -webkit-transform: translate(-50%);
+    -moz-transform: translate(-50%);
+    -ms-transform: translate(-50%);
+    -o-transform: translate(-50%);
+}
+.ban_img img{
+    position: relative;
+    width: 335px;
+    left: 85px;
+    top: -487px;
+}
+#banner .ban_btn{
+    position: relative;
+    z-index: 999;
+}
+.ban_btn a{
+    padding: 9px 2px 9px 3px !important;
+    border-radius: 20px;
+    border: 1px solid #000;
+    color: #000;
+font-family: 'ABeeZee', sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+display: flex;
+justify-content: center;
+line-height: normal;
+
+}
+.ban_btn a i{
+    margin-right: 15px;
+}
+.ban_btn h1{
+    color: #09090B;
+font-family: 'ABeeZee', sans-serif;
+font-size: 36px;
+text-align: center;
+font-style: normal;
+font-weight: 500;
+line-height: 45px; /* 125% */
+padding-top: 35px;
+}
+.ban_btn p{
+    color: #000;
+font-family: 'ABeeZee', sans-serif;
+font-size: 18px;
+font-style: italic;
+text-align: center;
+font-weight: 400;
+line-height: 28px; /* 155.556% */
+padding-top: 32px;
+padding-bottom: 37px;
+}
+.ban_btn .ban_btn1{
+    padding: 9px 23px 9px 30px;
+    border-radius: 5px;
+    border: 0px solid #EA580C;
+    background: #EA580C;
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    transition: 0.6s ;
+    -webkit-transition: 0.6s ;
+    -moz-transition: 0.6s ;
+    -ms-transition: 0.6s ;
+    -o-transition: 0.6s ;
+}
+#dep .dep1{
+    padding: 30px 10px 17px 80px;
+    border-radius: 15px;
+    border: 1px solid #FAD0BC;
+    background: #FDEDE8;
+    position: relative;
+    top:-172px;
+}
+#dep .dep2{
+    padding: 30px 10px 17px 80px;
+    border-radius: 15px;
+    border: 1px solid #FAD0BC;
+    background: #FDEDE8;
+    position: relative;
+    top:-120px;
+}
+#dep .dep3{
+    padding: 30px 10px 17px 80px;
+    border-radius: 15px;
+    border: 1px solid #FAD0BC;
+    background: #FDEDE8;
+    position: relative;
+    top:-65px;
+}
+}
+@media(min-width:576px) and (max-width:767px){
+    .main ul li a{
+        padding: 20px 0 !important;
+        color: #0B0B0B !important;
+        font-family:'ABeeZee', sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        display: flex;
+        justify-content: center;
+        background-color: #e0e0e0;
+        border-radius: 30px;
+        -webkit-border-radius: 30px;
+        -moz-border-radius: 30px;
+        -ms-border-radius: 30px;
+        -o-border-radius: 30px;
+} 
+.main button{
+    border: 2px solid #FD6E0A !important;
+ }
+ .navbar-toggler:focus{
+        outline: none;
+        text-decoration: none;
+        box-shadow: 0 0 0 transparent !important
+       }
+.main .navbar-toggler i{
+    color: #FD6E0A !important;
+    font-size: 25px;
+}
+@media(min-width:768px) and (max-width:991px){
+
+}
+@media(min-width:992px) and (max-width:1199px){
+  
+}
+@media(min-width:1200px) and (max-width:1399px){
+
+}
+@media(min-width:1400px){
+
+}
+}
